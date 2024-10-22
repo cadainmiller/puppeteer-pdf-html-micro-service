@@ -14,7 +14,7 @@ This project converts HTML to PDF files using Puppeteer and Express.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/cadainmiller/pdf-service-js.git
+    git clone https://github.com/cadainmiller/puppeteer-pdf-html-micro-service.git
     ```
 2. Navigate to the project directory:
     ```sh
